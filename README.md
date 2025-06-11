@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/manjirigole/Mortgage-repayment-calculator.git
+- Solution URL: https://www.frontendmentor.io/solutions/mortgage-repayment-calculator-_di9cv6z3g
 - Live Site URL: https://manjirigole.github.io/Mortgage-repayment-calculator/
 
 ## My process
