@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-preview.jpg
+![preview](https://github.com/user-attachments/assets/27c56c33-025c-4e02-92bd-5229d296ec2f)
+
 
 ### Links
 
